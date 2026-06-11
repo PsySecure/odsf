@@ -2,6 +2,23 @@
 
 The OSINT Defense & Security Framework (ODSF) is published at https://psysecure.com/odsf/. This repository mirrors released artifacts; the canonical source is maintained privately by PsySecure, and published version strings are immutable: any content change bumps the version.
 
+## [0.3.0] — 2026-06-11
+
+Public Draft. The release that makes honest scoring proportionate at every organization size, on a leaner catalog.
+
+- 150 controls (163 at 0.2.0): thirteen verified duplicates merged with coverage preserved. Control IDs are never renumbered or reused; every retired ID resolves to its successor through the new `retired_controls` registry embedded in the canonical JSON (schema 1.1).
+- Every control now names an evidence core: the two or three fields that prove the outcome, which scoring levels 2-3 require, with documented organization-defined equivalents accepted. The fuller field lists in implementation guidance become the level-4 verification depth.
+- Every control carries applicability: the smallest organization scale where it is ordinarily proportionate (micro, small, mid, large) plus a condition predicate for conditional lanes (public mobile apps, governed canary signals, executives, and similar); a false predicate makes the control not applicable rather than failing.
+- New framework-level threat model: the collect, correlate, then pretext-and-exploit reconnaissance path each focus area interrupts, and five generic adversary archetypes (opportunistic fraud operator, targeted intrusion crew, doxing and harassment actor, persona infiltrator, persistent targeted collector) mapped to the controls that counter them.
+- Coverage added across the cycle: hiring-pipeline persona fraud (synthetic candidates, fake recruiters, fraudulent IT workers), an employee doxing and harassment response lane with HR ownership, certificate-transparency issuance hygiene, origin reachability behind CDN or WAF, named lookalike-domain detection mechanisms, AI training-corpus persistence as recorded residual risk, and a completed executive-protection consent architecture.
+- Assessment refinements: Critical severity now requires active exploitation or incident linkage; a satisfied-by-reference routing rule ends double bookkeeping where another program owns the work; reference cadences on twelve inherently periodic controls; and a documented consultancy-delivered adoption path for micro organizations. The baseline holds at 27 controls.
+- Navigation metadata: controls that explicitly reference other controls now carry a derived `related_controls` field.
+
+Artifacts:
+
+- `odsf-v0.3.0.pdf` (140 pages) SHA-256 `40e76d39738392f4241ceaecc36c957bcc1fab1d463c578bd686025316d073b8`
+- `odsf-v0.3.0.json` (canonical) SHA-256 `2357165d1271132161e3b64c77f461f82376ab37f7e1845f73037bc951411662`
+
 ## [0.2.0] — 2026-06-10
 
 Public Draft. First release under Creative Commons Attribution 4.0 International, which now governs all framework content including the prior drafts.
