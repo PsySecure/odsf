@@ -1,4 +1,4 @@
-# OSINT Defense & Security Framework (ODSF) — Official Releases
+# OSINT Defense & Security Framework (ODSF)
 
 ODSF is an open, controls-based framework for managing organization-wide OSINT exposure: what attackers can learn about an organization and its people from public information, and the controls that reduce that exposure, defend the people it targets, and detect and respond to what remains.
 
@@ -15,6 +15,18 @@ ODSF is an open, controls-based framework for managing organization-wide OSINT e
 | [odsf-v0.3.0.json](odsf-v0.3.0.json) — the canonical machine-readable edition | `2357165d1271132161e3b64c77f461f82376ab37f7e1845f73037bc951411662` |
 
 Stable links for citation: https://psysecure.com/odsf/pdf and https://psysecure.com/odsf/json always point at the current version. Previous releases stay available in this repository ([odsf-v0.2.0.pdf](odsf-v0.2.0.pdf) · [odsf-v0.2.0.json](odsf-v0.2.0.json)), with their SHA-256s in the [changelog](CHANGELOG.md).
+
+## Version history
+
+| Version | Date | Milestone |
+| --- | --- | --- |
+| 0.3.0 | June 11, 2026 | Public Draft. 150 controls, each with an evidence core and organization-size applicability; framework-level threat model. |
+| 0.2.0 | June 10, 2026 | Public Draft. First release under CC BY 4.0; 163 controls; assessment rubric and 27-control baseline. |
+| 0.1.3 | Internal only | Stabilization series on the 0.1.2 base; never exported or published. |
+| 0.1.2 | July 2025 | Draft iteration, 159 controls; published July 15, 2025 to the since-retired odsf.psysecure.com catalog. |
+| 0.1.1 | May 2025 | Initial public draft; framework development began May 9-10, 2025. |
+
+Full release notes, including artifact SHA-256s for every published version, are in the [changelog](CHANGELOG.md).
 
 ## About this repository
 
