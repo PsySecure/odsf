@@ -4,6 +4,7 @@ ODSF is an open, controls-based framework for managing organization-wide OSINT e
 
 - **Framework home:** https://psysecure.com/odsf/
 - **Current version:** 0.3.0 (Public Draft), released June 11, 2026
+- **In development since May 2025**, first published July 2025; the version history is in the [changelog](CHANGELOG.md)
 - **License:** Creative Commons Attribution 4.0 International (CC BY 4.0); see [LICENSE.md](LICENSE.md)
 
 ## Downloads
