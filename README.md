@@ -1,4 +1,4 @@
-# OSINT Defense & Security Framework (ODSF) — Release Mirror
+# OSINT Defense & Security Framework (ODSF) — Official Releases
 
 ODSF is an open, controls-based framework for managing organization-wide OSINT exposure: what attackers can learn about an organization and its people from public information, and the controls that reduce that exposure, defend the people it targets, and detect and respond to what remains.
 
@@ -18,7 +18,7 @@ Stable links for citation: https://psysecure.com/odsf/pdf and https://psysecure.
 
 ## About this repository
 
-This repository mirrors released ODSF artifacts: the PDF, the canonical JSON, and the changelog, updated once per release. The canonical source is maintained privately by PsySecure, and every published artifact is generated from it through a reviewed pipeline. Watch this repository to be notified of new releases.
+This repository is the official home of ODSF releases: each version's designed PDF, the canonical machine-readable JSON, and the changelog, added once per release. The framework's working source is maintained privately by PsySecure, and every published artifact is generated from it through a reviewed pipeline. Watch this repository to be notified of new releases.
 
 The framework comprises 5 focus areas, 34 subcategories, and 150 controls, each carrying a compact evidence core and organization-size applicability, with interpretation conventions, a framework-level threat model, a glossary, a scoring rubric, a reference severity method, and a 27-control baseline subset for small organizations.
 

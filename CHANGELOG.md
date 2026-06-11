@@ -1,6 +1,6 @@
 # ODSF Changelog
 
-The OSINT Defense & Security Framework (ODSF) is published at https://psysecure.com/odsf/. This repository mirrors released artifacts; the canonical source is maintained privately by PsySecure, and published version strings are immutable: any content change bumps the version.
+The OSINT Defense & Security Framework (ODSF) is published at https://psysecure.com/odsf/. This repository carries the official releases; the working source is maintained privately by PsySecure, and published version strings are immutable: any content change bumps the version.
 
 ## [0.3.0] — 2026-06-11
 
