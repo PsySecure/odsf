@@ -40,10 +40,10 @@ Artifacts:
 
 Stabilization series on the 0.1.2 base; never exported or published.
 
-## [0.1.2] — 2025
+## [0.1.2] — July 2025
 
-Draft iteration, 159 controls. Published to the retired odsf.psysecure.com catalog; the export carried no license statement.
+Draft iteration, 159 controls. Versioned July 14, 2025 and published to the since-retired odsf.psysecure.com catalog on July 15, 2025, with the live build stamped July 16, 2025; the export carried no license statement.
 
-## [0.1.1] — 2025
+## [0.1.1] — May 2025
 
-Initial public draft; the export carried a CC BY-SA 4.0 notice. From the 0.2.0 effective date, all framework content including the prior drafts is licensed CC BY 4.0 (see LICENSE.md, section 6.1).
+Initial public draft: framework development began May 9-10, 2025, with contributor review across the v0.1.x drafts (see the framework acknowledgements); the export carried a CC BY-SA 4.0 notice. From the 0.2.0 effective date, all framework content including the prior drafts is licensed CC BY 4.0 (see LICENSE.md, section 6.1).
