@@ -46,4 +46,8 @@ Draft iteration, 159 controls. Versioned July 14, 2025 and published to the sinc
 
 ## [0.1.1] — May 2025
 
-Initial public draft: framework development began May 9-10, 2025, with contributor review across the v0.1.x drafts (see the framework acknowledgements); the export carried a CC BY-SA 4.0 notice. From the 0.2.0 effective date, all framework content including the prior drafts is licensed CC BY 4.0 (see LICENSE.md, section 6.1).
+Initial public-draft iteration in the 0.1.x series: work on this version began May 9-10, 2025, with contributor review across the v0.1.x drafts (see the framework acknowledgements); first published in July 2025. The export carried a CC BY-SA 4.0 notice. From the 0.2.0 effective date, all framework content including the prior drafts is licensed CC BY 4.0 (see LICENSE.md, section 6.1).
+
+## Original draft — February 5, 2023
+
+Initial OSINT Defense Framework draft. The document identifies itself as “Initial draft: Feb 5th, 2023”; its embedded Word properties record creation and modification on February 5, 2023. It is preserved in the [repository's first commit](https://github.com/PsySecure/odsf/commit/05d38eaf8797a3ab046ad267f72ac5b8311700f0).

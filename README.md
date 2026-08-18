@@ -4,7 +4,7 @@ ODSF is an open, controls-based framework for managing organization-wide OSINT e
 
 - **Framework home:** https://psysecure.com/odsf/
 - **Current version:** 0.3.0 (Public Draft), released June 11, 2026
-- **In development since May 2025**, first published July 2025; the version history is in the [changelog](CHANGELOG.md)
+- **In development since February 5, 2023**, with the [original draft preserved in the repository's first commit](https://github.com/PsySecure/odsf/commit/05d38eaf8797a3ab046ad267f72ac5b8311700f0); first published July 2025; the version history is in the [changelog](CHANGELOG.md)
 - **License:** Creative Commons Attribution 4.0 International (CC BY 4.0); see [LICENSE.md](LICENSE.md)
 
 ## Downloads
@@ -24,7 +24,8 @@ Stable links for citation: https://psysecure.com/odsf/pdf and https://psysecure.
 | 0.2.0 | June 10, 2026 | Public Draft. First release under CC BY 4.0; 163 controls; assessment rubric and 27-control baseline. |
 | 0.1.3 | Internal only | Stabilization series on the 0.1.2 base; never exported or published. |
 | 0.1.2 | July 2025 | Draft iteration, 159 controls; published July 15, 2025 to the since-retired odsf.psysecure.com catalog. |
-| 0.1.1 | May 2025 | Initial public draft; framework development began May 9-10, 2025. |
+| 0.1.1 | May 2025 | Initial public-draft iteration in the 0.1.x series; work on this version began May 9-10, 2025. |
+| Original draft | February 5, 2023 | Initial OSINT Defense Framework draft. The document is dated February 5, 2023, and is preserved in the repository's first commit. |
 
 Full release notes, including artifact SHA-256s for every published version, are in the [changelog](CHANGELOG.md).
 
